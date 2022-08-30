@@ -115,7 +115,6 @@ class DoublyCircularLinkedList:
         else:
             return -1
 
-
 # Do not change the following code
 operations = []
 for specific_operation in input().split(','):
